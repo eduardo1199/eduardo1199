@@ -1,4 +1,4 @@
-# Olá, sou Eduardo Soares, Bem vindo ao meu GitHub 😄
+# Olá, Bem vindo ao meu GitHub 😄
 
 ## Atualmente estudando e me aperfeiçoando em front-end usando a tecnologia ReactJS
 
